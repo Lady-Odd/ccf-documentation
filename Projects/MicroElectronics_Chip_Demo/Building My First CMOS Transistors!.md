@@ -10,6 +10,6 @@ The first step is to write a quick inverter in verilog. This comes out looking l
 `not inv1(in, out);`
 `endmodule`
 
-Thats it!
+That's it!
 
 Next we use a free open source tool called yosys in orrder to synthesize this verilog into a netlist using its standard cell library.
